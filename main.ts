@@ -61,6 +61,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         `, oshawott, 50, 0)
+    pause(500)
 })
 let projectile: Sprite = null
 let oshawott: Sprite = null
